@@ -1,0 +1,5 @@
+MODEL OUTPUTS
+
+Decision tree:
+mean: 5.038177655616346
+standard deviation: 1.0685454711051763
